@@ -6,3 +6,9 @@ Lovebytes aims to be inclusive of everyone on the gender
 and sexuality spectrum.
 
 Hello 
+
+//git add => put in box
+//git commit => packaging up box
+//git push => sending the package
+
+//merge possible through github browser
