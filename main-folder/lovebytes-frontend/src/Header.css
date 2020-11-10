@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 .header {
+    align-items: center;
     color: red;
     font-family: 'Lobster';
     display: flex;
@@ -8,16 +9,14 @@
     border-bottom: 1px solid #f9f9f9;
 }
 
+.header_icon {
+    padding: 20px;
+}
+
 .header_logo {
     height: 40px;
     width: 60px;
     object-fit: contain;
-
 }
 
-h1 {
-    color: red;
-    font-family: 'Lobster';
-    display: flex;
-    justify-content: space-evenly;
-}
+
